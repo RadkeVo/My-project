@@ -1,3 +1,4 @@
 {
-    "alitacode.serviceProviderForLLM": "Alita"
+    "alitacode.serviceProviderForLLM": "Alita",
+    "alitacode.authToken": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiM2FlMWI2YjktNjdlNi00MWMyLTgxNWEtZjI1Yjk0MjRjNjUyIn0.Ds0oU4ae91OzG0HMYpND0sVvNFAVwa9WQPyOnuSFAZAk5pePWV3g71iVCIwP9NjR1NjOZEQu4IpkgD3ARqvr2g"
 }
